@@ -1,0 +1,12 @@
+:host {
+    
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+    
+  gallery-card {
+    flex: 1;
+    cursor: pointer;
+  }
+    
+}
